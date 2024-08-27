@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Daniel Hailay 👋<br><br><br>Aspiring Generative AI Engineer with Electrical and Computer Engineering background from Ethiopia<br>🤔 I'm currently working on enhancing my Generative AI Engineering and Machine Learning skills.<br><br>✨ I study about different Large Language Models, such as OpenAI.<br><br>❤️ I prefer MEVN stack for Web development, Flutter/Dart for Mobile app development<br><br>About me:<br>🔭 I’m looking to collaborate on commercial projects and startups<br>📫 How to reach me: Email<br>💬 Ask me about Generative AI or ML Engineering
+   # 💫 Hi, I'm Daniel Hailay 👋:
+<h3>Aspiring Generative AI Engineer with Electrical and Computer Engineering background from Ethiopia</h3><br>🤔 I'm currently working on enhancing my Generative AI Engineering and Machine Learning skills.<br><br>✨ I study about different Large Language Models, such as OpenAI.<br><br>❤️ I prefer MEVN stack for Web development, Flutter/Dart for Mobile app development<br><br>About me:<br>🔭 I’m looking to collaborate on commercial projects and startups<br>📫 How to reach me: Email<br>💬 Ask me about Generative AI or ML Engineering
 
 
 ## 🌐 Socials:
